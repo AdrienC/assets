@@ -27,4 +27,6 @@ pathfinder/Pathfinder Adventure Path/14 Mummys Mask=Paizo/Pathfinder Adventure P
 pathfinder/Pathfinder Adventure Path/15 Iron Gods=Paizo/Pathfinder Adventure Path/Iron Gods
 pathfinder/Pathfinder Adventure Path/16 Giantslayer=Paizo/Pathfinder Adventure Path/Giantslayer
 
+starfinder/Starfinder-logo=Starfinder/Logo
+
 third-party/neoexodus=3rd Party/NeoExodus - A House Divided
